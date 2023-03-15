@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style class="css"></style>
+</head>
+<body>
+<style>
+div {
+  text-align: center;
+}
+</style>
+
+<div>
+ <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmobile.twitter.com%2FCarlosHorse1&psig=AOvVaw3cQm57pA6c_nS56sBiTuO3&ust=1678966580101000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPjf2ofs3f0CFQAAAAAdAAAAABAD
+"
+
+#divBusca{
+  background-color:#2F4F4F;
+  border:solid 1px;
+  border-radius:15px;
+  width:300px;
+}
+
+#txtBusca{
+  float:left;
+  background-color:transparent;
+  padding-left:5px;
+  font-style:italic;
+  font-size:18px;
+  border:none;
+  height:32px;
+  width:260px;
+}
+
+a:link{
+color: #00F;
+background-color: yellow;
+}
+
+a:hover {
+  color: #F00;
+  background-color: black;
+}
+
+</body>
+</html>
